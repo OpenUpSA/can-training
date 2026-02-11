@@ -22,7 +22,7 @@ numpy==2.2.5
 ollama==0.4.8
 packaging==24.2
 pandas==2.2.3
-pillow==11.2.1
+pillow==12.1.1
 protobuf==6.30.2
 pyarrow==20.0.0
 pydantic==2.11.4
